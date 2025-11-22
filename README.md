@@ -1,10 +1,10 @@
 
 # Algorithm Design Solutions
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![NumPy](https://img.shields.io/badge/numpy-1.24+-013243.svg)
-![CVXPY](https://img.shields.io/badge/cvxpy-1.3+-green.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Viz-orange.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-1.24%2B-013243?logo=numpy&logoColor=white)
+![CVXPY](https://img.shields.io/badge/cvxpy-1.3%2B-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Viz-orange?logo=matplotlib&logoColor=white)
 
 **Algorithm Design Solutions** is a repository containing efficient Python implementations of various algorithmic problems. Developed as part of a Design of Algorithms (DA) course curriculum, this project covers a wide range of topics from classical geometry problems to modern optimization techniques using Support Vector Machines (SVM).
 
